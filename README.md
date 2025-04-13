@@ -1,4 +1,4 @@
-# Web-security-testing-
+# Web-security-testing
 # ShadowFox Cybersecurity Internship Tasks
 
 This repository contains the beginner-level tasks I completed as part of the ShadowFox Cybersecurity Internship.  
